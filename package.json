@@ -4,6 +4,9 @@
     "serve": "vite",
     "build": "vite build"
   },
+  "dependencies": {
+    "todomvc-app-css": "^2.4.1"
+  },
   "devDependencies": {
     "vite": "^2.7.13"
   }
