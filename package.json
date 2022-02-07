@@ -1,3 +1,10 @@
 {
-  "name": "sample-todos"
+  "name": "sample-todos",
+  "scripts": {
+    "serve": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^2.7.13"
+  }
 }
